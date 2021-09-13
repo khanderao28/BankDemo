@@ -9,8 +9,7 @@
 		<classes>
 			<class name="testClasses.login2" />
 			<class name="testClasses.TC01_LoginPageTest" />
-			<class name="testClasses.TC02_LoginPageTest" />
-			 <class name="testClasses.TC01_AddUserTest"/>
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
